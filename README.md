@@ -16,4 +16,4 @@ Skills: JS / HTML / CSS / Laravel / PHP / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-MKZ&show_icons=true)  
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MR-MKZ&label=Profile%20views&color=fcca03&style=flat" alt="MR-MKZ" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-MKZ&label=Profile%20views&color=fcca03&style=flat" alt="MR-MKZ" /> </p>
