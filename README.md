@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Mr.MKZ 
 #### I am a fullstack developer and discord bot developer
-![I am a fullstack developer and discord bot developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project to say about my self
 
@@ -16,5 +15,3 @@ Skills: JS / HTML / CSS / Laravel / PHP / Python
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-MKZ)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-MKZ&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/Mr-MKZ)  
