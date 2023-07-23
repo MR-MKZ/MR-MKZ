@@ -15,3 +15,4 @@ Skills: JS / HTML / CSS / Laravel / PHP / Python
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-MKZ)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-MKZ&show_icons=true)  
+
