@@ -3,10 +3,10 @@
 
 I made this project to say about my self
 
-Skills: JS / HTML / CSS / Laravel / PHP / Python 
+Skills: JS / HTML / CSS / Laravel / PHP / Python / React.js / Tailwind CSS / Jquery
 
 - 🔭 I’m currently working on PersianMafia Discord bot 
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning Cloud Computing
 - 🤔 I’m looking for help with someone who can write discord bot with python.! 
 
 
