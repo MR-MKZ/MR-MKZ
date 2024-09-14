@@ -34,10 +34,10 @@ I made this project to say about my self
 ![Markdown](https://img.shields.io/badge/markdown-%23333333.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-MKZ&layout=compact&theme=midnight-purple&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-MKZ&layout=compact&theme=midnight-purple&langs_count=8" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-MKZ&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-MKZ&show_icons=true&theme=midnight-purple&rank_icon=percentile" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-MKZ&show_icons=true&theme=midnight-purple&rank_icon=percentile)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-MKZ&theme=midnight-purple)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-MKZ&label=Profile%20views&color=blueviolet&style=flat" alt="MR-MKZ" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MR-MKZ&label=Profile%20views&color=blueviolet&style=flat" alt="MR-MKZ" /> </p>
