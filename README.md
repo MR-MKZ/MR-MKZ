@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is Mr.MKZ 
-#### I am a fullstack developer and discord bot developer
+#### I am a fullstack web developer (focused on backend)
 
 I made this project to say about my self
 
 - 🔭 I’m currently working on [AxonJs](https://github.com/Mr-MKZ/AxonJs).
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Classic ML
 
 - ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mr._.mkz/)
