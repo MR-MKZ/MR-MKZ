@@ -7,7 +7,6 @@ I made this project to say about my self
 - 🌱 I’m currently learning Classic ML
 
 - ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mr._.mkz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-mkz)
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-%23239120.svg?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/+989016513748)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/e_mkz)
