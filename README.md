@@ -3,7 +3,7 @@
 
 I made this project to say about my self
 
-- 🔭 I’m currently working on [AxonJs](https://github.com/Mr-MKZ/AxonJs).
+- 🔭 I’m currently working on [AxonJs](https://github.com/AxonJsLabs/AxonJs).
 - 🌱 I’m currently learning Classic ML
 
 - ## 🌐 Socials:
