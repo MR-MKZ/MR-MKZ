@@ -1,43 +1,68 @@
-### Hi there 👋, My name is Mr.MKZ 
-#### I am a fullstack web developer (focused on backend)
+<h1 align="center">Hi there 👋, I'm Mr.MKZ</h1>
+<h3 align="center">Fullstack Web Developer | Backend Enthusiast</h3>
 
-I made this project to say about my self
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MR-MKZ&label=Profile%20views&color=blueviolet&style=flat" alt="MR-MKZ" />
+</p>
 
-- 🔭 I’m currently working on [AxonJs](https://github.com/AxonJsLabs/AxonJs).
-- 🌱 I’m currently learning Rust programming language and caching, optimization solutions for backend services
-- 🎮 I’m currently playing GTA V (re-play actually)
+---
 
-- ## 🌐 Socials:
+### 🚀 About Me
+
+- 💻 Passionate fullstack developer focused on backend magic
+- 🔭 Currently building [AxonJs](https://github.com/AxonJsLabs/AxonJs)
+- 🌱 Exploring Rust and backend performance/caching solutions
+- 🎮 Replaying GTA V in my spare time
+
+---
+
+### 🌐 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-mkz)
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-%23239120.svg?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/+989016513748)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/e_mkz)
 
-# 💻 Tech Stack:
+---
 
-![php](https://img.shields.io/badge/php-333333?style=for-the-badge&logo=php)
-![laravel](https://img.shields.io/badge/laravel-333333?style=for-the-badge&logo=laravel)
-![python](https://img.shields.io/badge/python-333333?style=for-the-badge&logo=python)
-![flask](https://img.shields.io/badge/flask-333333?style=for-the-badge&logo=flask)
-![javascript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript)
-![nodejs](https://img.shields.io/badge/node.js-333333?style=for-the-badge&logo=nodedotjs)
-![Typescript](https://img.shields.io/badge/typescript-333333?style=for-the-badge&logo=typescript)
-![react](https://img.shields.io/badge/react-333333?style=for-the-badge&logo=react)
-![html](https://img.shields.io/badge/html5-333333?style=for-the-badge&logo=html5)
-![css](https://img.shields.io/badge/css3-333333?style=for-the-badge&logo=css3)
-![tailwind](https://img.shields.io/badge/tailwindcss-333333?style=for-the-badge&logo=tailwindcss)
-![docker](https://img.shields.io/badge/docker-333333?style=for-the-badge&logo=docker)
-![express](https://img.shields.io/badge/express-333333?style=for-the-badge&logo=express)
-![chakra](https://img.shields.io/badge/chakra_ui-333333?style=for-the-badge&logo=chakraui)
-![chartjs](https://img.shields.io/badge/chartjs-333333?style=for-the-badge&logo=chartdotjs)
-![socketio](https://img.shields.io/badge/socket_io-333333?style=for-the-badge&logo=socketdotio)
+### ⚡ Tech Stack
+
+**Languages & Frameworks**
+<br>
+![PHP](https://img.shields.io/badge/php-333333?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/laravel-333333?style=for-the-badge&logo=laravel)
+![Python](https://img.shields.io/badge/python-333333?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/flask-333333?style=for-the-badge&logo=flask)
+![JavaScript](https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/node.js-333333?style=for-the-badge&logo=nodedotjs)
+![TypeScript](https://img.shields.io/badge/typescript-333333?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/react-333333?style=for-the-badge&logo=react)
+![Express](https://img.shields.io/badge/express-333333?style=for-the-badge&logo=express)
 ![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=csharp&logoColor=white)
+
+**Frontend & UI**
+<br>
+![HTML5](https://img.shields.io/badge/html5-333333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-333333?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-333333?style=for-the-badge&logo=tailwindcss)
+![Chakra UI](https://img.shields.io/badge/chakra_ui-333333?style=for-the-badge&logo=chakraui)
+![Chart.js](https://img.shields.io/badge/chartjs-333333?style=for-the-badge&logo=chartdotjs)
+
+**Tools & Platforms**
+<br>
+![Docker](https://img.shields.io/badge/docker-333333?style=for-the-badge&logo=docker)
+![Socket.io](https://img.shields.io/badge/socket_io-333333?style=for-the-badge&logo=socketdotio)
 ![Markdown](https://img.shields.io/badge/markdown-%23333333.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-# 📊 GitHub Stats:
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-MKZ&layout=compact&theme=midnight-purple&langs_count=8" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-MKZ&theme=midnight-purple" />
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-MKZ&show_icons=true&theme=midnight-purple&rank_icon=percentile" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MR-MKZ&label=Profile%20views&color=blueviolet&style=flat" alt="MR-MKZ" /> </p>
+---
+
+> 💡 _"Code. Learn. Play. Repeat."_  
