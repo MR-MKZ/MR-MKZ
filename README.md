@@ -4,7 +4,8 @@
 I made this project to say about my self
 
 - 🔭 I’m currently working on [AxonJs](https://github.com/AxonJsLabs/AxonJs).
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust programming language and caching, optimization solutions for backend services
+- 🎮 I’m currently playing GTA V (re-play actually)
 
 - ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-mkz)
