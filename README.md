@@ -19,8 +19,7 @@
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-mkz)
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-%23239120.svg?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/+989016513748)
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/e_mkz)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Erfan_Karimizadeh)
 
 ---
 
